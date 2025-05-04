@@ -9,7 +9,7 @@ This a sorting visualizer project. Here we show three different algorithms for v
 
 ## 📹 Demo 
 (Upload your video to GitHub and replace this link)
-https://github.com/yourusername/sorting-visualizer/assets/12345678/demo.mp4
+https://github.com/narayan0000/SortingVisualizer/assets/12345678/Sorter.mp4
 
 ## ✨ Features
 - **3 Sorting Algorithms**: Bubble, Selection, and Insertion Sort
