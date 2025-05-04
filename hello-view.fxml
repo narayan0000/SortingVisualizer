@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="671.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.hellofx.HelloController">
+   <children>
+      <Button layoutX="484.0" layoutY="297.0" mnemonicParsing="false" onAction="#sort" prefHeight="73.0" prefWidth="144.0" text="Sort" />
+      <Label fx:id="titlelabel" alignment="CENTER" layoutX="-1.0" layoutY="14.0" prefHeight="17.0" prefWidth="671.0" text="Sorter" />
+      <ChoiceBox fx:id="myChoiceBox" layoutX="24.0" layoutY="297.0" prefHeight="25.0" prefWidth="232.0" />
+      <Slider fx:id="mySlider" blockIncrement="5.0" layoutX="24.0" layoutY="334.0" majorTickUnit="10.0" min="10.0" prefHeight="17.0" prefWidth="232.0" showTickLabels="true" showTickMarks="true" value="10.0" />
+      <Button layoutX="308.0" layoutY="297.0" mnemonicParsing="false" onAction="#reshuffle" prefHeight="73.0" prefWidth="144.0" text="Reshuffle" />
+      <VBox alignment="CENTER" layoutY="54.0" prefHeight="230.0" prefWidth="671.0">
+         <children>
+            <HBox fx:id="myHBox" alignment="BOTTOM_CENTER" prefHeight="190.0" prefWidth="482.0">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </HBox>
+         </children>
+      </VBox>
+      
+   </children>
+</AnchorPane>
