@@ -5,7 +5,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-19-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.10.1-green)
 
-This a sorting visualizer project. Here we show three different algorithms for visualization and better understanding and working of sorting alggorithms. We are implementing **Bubble sort,Insertion sort and Selecton sort**. Color schemes are diiferent for all the three in Bubble sort you will have two rectangles colored one yellow and one purple showing comparison if they are two swap they change to red and at last blue. The other two algorithms have differnt color schemes which on usage are very easy to understand . It is a tool for better understanding and visualization. We completly stick to java in this project.
+This a sorting visualizer project. Here we show three different algorithms for visualization and better understanding and working of sorting alggorithms. We are implementing **Bubble sort, Insertion sort and Selecton sort**. Color schemes are diiferent for all the three in Bubble sort you will have two rectangles colored one yellow and one purple showing comparison if they are two swap they change to red and at last blue. The other two algorithms have differnt color schemes which on usage are very easy to understand . It is a tool for better understanding and visualization. We completly stick to java in this project.
 
 ## 📹 Demo 
 https://github.com/narayan0000/SortingVisualizer/blob/main/Sorter%20.mp4
